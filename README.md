@@ -1,5 +1,6 @@
 中山大学自动健康申报docker版本
 只需根目录配置config.json文件后
+即配置~/config.json文件
 config.json配置如下
 ```
 [
