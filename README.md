@@ -6,7 +6,7 @@ config.json配置如下
 [
     {
         "method":"email",
-        "username": "你的NERID",
+        "username": "你的NETID",
         "password": "你的密码",
         "mail_host": "smtp.qq.com",
         "mail_user":"用来发送邮件的邮箱",
